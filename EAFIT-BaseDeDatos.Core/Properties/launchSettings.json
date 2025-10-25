@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EAFIT-BaseDeDatos.Core": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Connection": "server=127.0.0.1;uid=root;pwd=12345678;database=BaseDeDatos"
+      }
+    }
+  }
+}

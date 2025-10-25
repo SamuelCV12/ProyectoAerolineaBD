@@ -1,0 +1,51 @@
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20251\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\bin\Debug\net9.0\EAFIT-BaseDeDatos.Core.deps.json
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20251\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\bin\Debug\net9.0\EAFIT-BaseDeDatos.Core.dll
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20251\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\bin\Debug\net9.0\EAFIT-BaseDeDatos.Core.pdb
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20251\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\bin\Debug\net9.0\MySql.Data.dll
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20251\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\bin\Debug\net9.0\MySql.Data.xml
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20251\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\EAFIT-BaseDeDatos.Core.csproj.AssemblyReference.cache
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20251\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\EAFIT_BaseDeDatos.Core.Properties.Resources.resources
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20251\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\EAFIT-BaseDeDatos.Core.csproj.GenerateResource.cache
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20251\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\EAFIT-BaseDeDatos.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20251\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\EAFIT-BaseDeDatos.Core.AssemblyInfoInputs.cache
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20251\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\EAFIT-BaseDeDatos.Core.AssemblyInfo.cs
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20251\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\EAFIT-BaseDeDatos.Core.csproj.CoreCompileInputs.cache
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20251\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\EAFIT-Ba.2E8F646C.Up2Date
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20251\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\EAFIT-BaseDeDatos.Core.dll
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20251\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\refint\EAFIT-BaseDeDatos.Core.dll
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20251\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\EAFIT-BaseDeDatos.Core.pdb
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20251\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\ref\EAFIT-BaseDeDatos.Core.dll
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20252\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\bin\Debug\net9.0\EAFIT-BaseDeDatos.Core.deps.json
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20252\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\bin\Debug\net9.0\EAFIT-BaseDeDatos.Core.dll
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20252\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\bin\Debug\net9.0\EAFIT-BaseDeDatos.Core.pdb
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20252\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\bin\Debug\net9.0\MySql.Data.dll
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20252\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\bin\Debug\net9.0\MySql.Data.xml
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20252\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\EAFIT-BaseDeDatos.Core.csproj.AssemblyReference.cache
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20252\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\EAFIT_BaseDeDatos.Core.Properties.Resources.resources
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20252\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\EAFIT-BaseDeDatos.Core.csproj.GenerateResource.cache
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20252\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\EAFIT-BaseDeDatos.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20252\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\EAFIT-BaseDeDatos.Core.AssemblyInfoInputs.cache
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20252\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\EAFIT-BaseDeDatos.Core.AssemblyInfo.cs
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20252\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\EAFIT-BaseDeDatos.Core.csproj.CoreCompileInputs.cache
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20252\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\EAFIT-Ba.2E8F646C.Up2Date
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20252\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\EAFIT-BaseDeDatos.Core.dll
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20252\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\refint\EAFIT-BaseDeDatos.Core.dll
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20252\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\EAFIT-BaseDeDatos.Core.pdb
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20252\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\ref\EAFIT-BaseDeDatos.Core.dll
+C:\Users\Samuel\Desktop\ProyectoAerolinea\BaseDeDatos\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\bin\Debug\net9.0\EAFIT-BaseDeDatos.Core.deps.json
+C:\Users\Samuel\Desktop\ProyectoAerolinea\BaseDeDatos\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\bin\Debug\net9.0\EAFIT-BaseDeDatos.Core.dll
+C:\Users\Samuel\Desktop\ProyectoAerolinea\BaseDeDatos\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\bin\Debug\net9.0\EAFIT-BaseDeDatos.Core.pdb
+C:\Users\Samuel\Desktop\ProyectoAerolinea\BaseDeDatos\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\bin\Debug\net9.0\MySql.Data.dll
+C:\Users\Samuel\Desktop\ProyectoAerolinea\BaseDeDatos\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\bin\Debug\net9.0\MySql.Data.xml
+C:\Users\Samuel\Desktop\ProyectoAerolinea\BaseDeDatos\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\EAFIT-BaseDeDatos.Core.csproj.AssemblyReference.cache
+C:\Users\Samuel\Desktop\ProyectoAerolinea\BaseDeDatos\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\EAFIT_BaseDeDatos.Core.Properties.Resources.resources
+C:\Users\Samuel\Desktop\ProyectoAerolinea\BaseDeDatos\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\EAFIT-BaseDeDatos.Core.csproj.GenerateResource.cache
+C:\Users\Samuel\Desktop\ProyectoAerolinea\BaseDeDatos\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\EAFIT-BaseDeDatos.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel\Desktop\ProyectoAerolinea\BaseDeDatos\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\EAFIT-BaseDeDatos.Core.AssemblyInfoInputs.cache
+C:\Users\Samuel\Desktop\ProyectoAerolinea\BaseDeDatos\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\EAFIT-BaseDeDatos.Core.AssemblyInfo.cs
+C:\Users\Samuel\Desktop\ProyectoAerolinea\BaseDeDatos\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\EAFIT-BaseDeDatos.Core.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\ProyectoAerolinea\BaseDeDatos\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\EAFIT-Ba.2E8F646C.Up2Date
+C:\Users\Samuel\Desktop\ProyectoAerolinea\BaseDeDatos\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\EAFIT-BaseDeDatos.Core.dll
+C:\Users\Samuel\Desktop\ProyectoAerolinea\BaseDeDatos\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\refint\EAFIT-BaseDeDatos.Core.dll
+C:\Users\Samuel\Desktop\ProyectoAerolinea\BaseDeDatos\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\EAFIT-BaseDeDatos.Core.pdb
+C:\Users\Samuel\Desktop\ProyectoAerolinea\BaseDeDatos\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos.Core\obj\Debug\net9.0\ref\EAFIT-BaseDeDatos.Core.dll

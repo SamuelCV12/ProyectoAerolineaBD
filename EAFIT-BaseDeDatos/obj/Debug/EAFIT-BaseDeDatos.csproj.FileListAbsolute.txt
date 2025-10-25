@@ -1,0 +1,22 @@
+E:\AndresLopez\clases\EAFIT\BaseDeDatos\EAFIT-BaseDeDatos\bin\Debug\EAFIT-BaseDeDatos.exe.config
+E:\AndresLopez\clases\EAFIT\BaseDeDatos\EAFIT-BaseDeDatos\bin\Debug\EAFIT-BaseDeDatos.exe
+E:\AndresLopez\clases\EAFIT\BaseDeDatos\EAFIT-BaseDeDatos\bin\Debug\EAFIT-BaseDeDatos.pdb
+E:\AndresLopez\clases\EAFIT\BaseDeDatos\EAFIT-BaseDeDatos\obj\Debug\EAFIT-BaseDeDatos.csproj.AssemblyReference.cache
+E:\AndresLopez\clases\EAFIT\BaseDeDatos\EAFIT-BaseDeDatos\obj\Debug\EAFIT_BaseDeDatos.Properties.Resources.resources
+E:\AndresLopez\clases\EAFIT\BaseDeDatos\EAFIT-BaseDeDatos\obj\Debug\EAFIT-BaseDeDatos.csproj.GenerateResource.cache
+E:\AndresLopez\clases\EAFIT\BaseDeDatos\EAFIT-BaseDeDatos\obj\Debug\EAFIT-BaseDeDatos.csproj.CoreCompileInputs.cache
+E:\AndresLopez\clases\EAFIT\BaseDeDatos\EAFIT-BaseDeDatos\obj\Debug\EAFIT-BaseDeDatos.exe
+E:\AndresLopez\clases\EAFIT\BaseDeDatos\EAFIT-BaseDeDatos\obj\Debug\EAFIT-BaseDeDatos.pdb
+E:\AndresLopez\clases\EAFIT\BaseDeDatos\EAFIT-BaseDeDatos\obj\Debug\EAFIT_BaseDeDatos.Logeo.resources
+E:\AndresLopez\clases\EAFIT\BaseDeDatos\EAFIT-BaseDeDatos\obj\Debug\EAFIT_BaseDeDatos.MenuPrincipal.resources
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20251\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos\bin\Debug\EAFIT-BaseDeDatos.exe.config
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20251\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos\bin\Debug\EAFIT-BaseDeDatos.exe
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20251\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos\bin\Debug\EAFIT-BaseDeDatos.pdb
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20251\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos\obj\Debug\EAFIT-BaseDeDatos.csproj.AssemblyReference.cache
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20251\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos\obj\Debug\EAFIT_BaseDeDatos.Logeo.resources
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20251\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos\obj\Debug\EAFIT_BaseDeDatos.MenuPrincipal.resources
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20251\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos\obj\Debug\EAFIT_BaseDeDatos.Properties.Resources.resources
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20251\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos\obj\Debug\EAFIT-BaseDeDatos.csproj.GenerateResource.cache
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20251\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos\obj\Debug\EAFIT-BaseDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20251\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos\obj\Debug\EAFIT-BaseDeDatos.exe
+C:\Users\dirdesarrollo\OneDrive - GRUPO AFIN FARMACEUTICA SAS BIC\DesarrolloTI\Arquitectura\Personal\Clases\BD\20251\BaseDeDatos\BaseDeDatos\EAFIT-BaseDeDatos\obj\Debug\EAFIT-BaseDeDatos.pdb
